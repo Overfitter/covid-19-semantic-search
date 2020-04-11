@@ -324,7 +324,7 @@ tabulate==0.8.6
 tblib==1.6.0
 tensorboard==2.1.0
 tensorboardX==2.0
-tensorflow==1.15.0
+tensorflow==1.15.2
 tensorflow-datasets==2.1.0
 tensorflow-estimator==2.1.0
 tensorflow-gpu-estimator==2.1.0
