@@ -76,12 +76,6 @@ distro==1.5.0
 docloud==1.0.375
 docplex==2.12.182
 docutils==0.16
-en-core-sci-lg==0.2.4
-en-core-sci-sm==0.2.4
-en-core-web-md==2.2.5
-en-core-web-sm==2.2.0
-en-ner-bc5cdr-md==0.2.4
-en-ner-bionlp13cg-md==0.2.4
 entrypoints==0.3
 enum-compat==0.0.3
 environment-kernels==1.1.1
